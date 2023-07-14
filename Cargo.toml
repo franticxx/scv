@@ -1,0 +1,11 @@
+[package]
+name = "scv"
+version = "0.0.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "This crate provides a set of tools for scv"
+repository = "https://github.com/franticxx/scv.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
